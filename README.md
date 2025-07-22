@@ -1,4 +1,4 @@
-# AR Sarkar First Figma Design
+# AR First Figma Design
 
 This repository contains my first ever Figma design.  
 Design preview:  
